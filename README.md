@@ -1,8 +1,8 @@
-<h1>Nutricionista Alura</h1>
-
 <p align="center">
    <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADA&color=RED&style=for-the-badge" #vitrinedev/>
 </p>
+
+<h1>Nutricionista Alura</h1>
 
 # :pushpin: Sobre do projeto
 - `Formação` Front-End (Oracle One)
