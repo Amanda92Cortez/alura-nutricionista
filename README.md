@@ -8,7 +8,7 @@
 - `Formação ` Front-End (Oracle One)
 
 # :pushpin: Cursos
-- `Curso `
+- `Curso ` JavaScript - Programanando na linguagem web
 
 # :hammer: Funcionalidades do projeto
 - `Funcionalidade ` Cadastrar paciente do peso, altura e gordura corporal pra calcular IMC
