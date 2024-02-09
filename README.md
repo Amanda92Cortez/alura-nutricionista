@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/19363871/155182426-9105ff5b-88d8-4a83-
 [Imagem]
 
 ## 📁 Acesso ao projeto
-Você pode [acessar o código fonte do projeto inicial](https://github. XXXXXXXXXXX) ou [baixá-lo](https://github. XXXXXXXX .zip).
+Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-nutricionista) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-nutricionista/archive/refs/heads/main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/Alura_Nutricionista.git
