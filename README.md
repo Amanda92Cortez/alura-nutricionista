@@ -16,10 +16,11 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 🎯 Desafio
 Tela de detalhes
-https://user-images.githubusercontent.com/19363871/155182426-9105ff5b-88d8-4a83-831e-2a572d0a565f.mp4
+![](img/amostra.gif) GIF ?
 
 ## 📚Telas/Vídeos
-[Imagem]
+![image](https://github.com/Amanda92Cortez/alura-nutricionista/assets/19363871/12394467-92df-4735-9dbe-73c1d8d18b62)
+
 
 ## 📁 Acesso ao projeto
 Você pode [acessar o código fonte do projeto inicial](https://github.com/Amanda92Cortez/alura-nutricionista) ou [baixá-lo](https://github.com/Amanda92Cortez/alura-nutricionista/archive/refs/heads/main.zip).
@@ -27,3 +28,8 @@ Você pode [acessar o código fonte do projeto inicial](https://github.com/Amand
 ## 🛠️ Abrir e rodar o projeto
 - ` Baixar projeto ` git clone https://github.com/Amanda92Cortez/Alura_Nutricionista.git
 - ` Executar ` No VSCode clicar na parte inferior e clicar "Go Live" (Live Server)
+
+## 🔎 Observações
+- [ ] Gif Rápido
+- [ ] Ajustar a ideia
+- [ ] Finalizado
