@@ -30,7 +30,7 @@ O App Cadastrar paciente do peso, altura e gordura corporal pra calcular IMC.
 
 ---
 
-` Curso: ` ![Alura - JavaScript para Web: Crie páginas dinâmicas (JavaScript: programando na linguagem da web)]("https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas")
+` Curso: ` Alura - JavaScript para Web: Crie páginas dinâmicas (JavaScript: programando na linguagem da web)
 
 ---
 
